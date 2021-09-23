@@ -1,10 +1,10 @@
 module.exports = {
     siteMetadata: {
-        title: `Brett's 100 Days of Code`,
-        description: `Hey I'm Brett! I'm a designer and developer completing the 100 Days of Code Challenge.`,
-        author: `@brettmstevens7`,
-        githubUrl: "https://github.com/brettmstevens7",
-        twitterUrl: "https://twitter.com/brettmstevens"
+        title: `JCode`,
+        description: `欢迎访问！ JCode 课程资料站`,
+        author: `@dhtbo`,
+        githubUrl: "https://github.com/dhtbo",
+        twitterUrl: "mailto:dhtbo@qq.com"
     },
     plugins: [
         `gatsby-plugin-react-helmet`,

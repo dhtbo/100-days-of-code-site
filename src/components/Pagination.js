@@ -40,14 +40,14 @@ export default function Pagination({ pageContext }) {
                 {!isFirst && (
                     <Link to={prevPage} rel="prev">
                         <Button variant="outlined" color="primary" size="small" className={classes.button}>
-                            Previous
+                            前一页
                         </Button>
                     </Link>
                 )}
                 {pageNumbers.map(i => {
                     const variant = i === currentPage ? "contained" : "outlined";
                     return (
-                        <Link key={`pagination-number${i}`} to={i === 1 ? "/" : `/${i}`}>
+                        <Link key={`pagination-number${i}`} to={i === 1 ? "/" : `/${i}`} >
                             <Button variant={variant} color="primary" size="small" className={classes.button}>
                                 {i}
                             </Button>
@@ -57,7 +57,7 @@ export default function Pagination({ pageContext }) {
                 {!isLast && (
                     <Link to={nextPage} rel="next">
                         <Button variant="outlined" color="primary" size="small" className={classes.button}>
-                            Next
+                            下一页
                         </Button>
                     </Link>
                 )}

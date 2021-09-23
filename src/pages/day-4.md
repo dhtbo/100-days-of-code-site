@@ -1,15 +1,15 @@
 ---
-title: "Integrating with Strava's API"
+title: "Python 一级 操作题专项训练"
 day: "4"
-publishDate: "2020-05-27"
-thumbnailImage: "../images/day-4.png"
-shareText: "My most productive artist is Major Lazer"
-hashtags: ["100DaysOfCode", "majorlazer"]
+publishDate: "2021-03-02"
+thumbnailImage: "../images/day004.PNG"
+shareText: ""
+hashtags: ["", ""]
 draft: false
 ---
 
-Today, I was interested in finding my most productive songs for running by comparing my running data (from Strava) to my listening data (from Spotify). I decided that I would use pace as a proxy for my productivity.
-
-I learned how to use each platform's API and generated a chart comparing pace to number of plays. My most productive artist for running is Major Lazer!
-
-<a href="https://i.pinimg.com/originals/02/51/db/0251dbbdf694e152043c11c7cca63e23.jpg" target="_blank">Here it the project on GitHub</a>.
+| 📚 主 题           |      | 📰 课 件                                                      |
+| :---------------- | :--- | :----------------------------------------------------------- |
+| 1. 专项训练（一） |      | [🍳浏览](https://guyu-school.codemao.cn/pdf/web/viewer.html?file=https://cdn-cnr.codemao.cn/303/cnr/curriculum/courseware/4e7ztdaeg1oyhi4s9v&fileName=第十章 操作题专项训练（一）-课件) |
+| 2. 专项训练（二） |      | [🍳浏览](https://guyu-school.codemao.cn/pdf/web/viewer.html?file=https://cdn-cnr.codemao.cn/303/cnr/curriculum/courseware/4cifr4mhv3tfse1ccu&fileName=第十一章 操作题专项训练（二）-课件) |
+| 3. 专项训练（三） |      | [🍳浏览](https://guyu-school.codemao.cn/pdf/web/viewer.html?file=https://cdn-cnr.codemao.cn/303/cnr/curriculum/courseware/4cifrfjwpbo58m17w1&fileName=第十二章 操作题专项训练（三）-课件) |

@@ -69,11 +69,11 @@ const DayTemplate = ({ data, pageContext }) => {
                         >
                             {data.markdownRemark.frontmatter.title}
                         </Typography>
-                        <div className={classes.share}>
+                        {/* <div className={classes.share}>
                             <Share title={title} text={shareText} hashtags={hashtags} />
-                        </div>
+                        </div> */}
                         <Typography variant="subtitle2" className={classes.typography}>
-                            {moment(publishDate).format("MMMM Do, YYYY")}
+                            {moment(publishDate).format("YYYY-MM-DD")}
                         </Typography>
                         <Img fluid={thumbnailImage.childImageSharp.fluid} alt={pageContext.title} />
                         <Typography
@@ -88,7 +88,7 @@ const DayTemplate = ({ data, pageContext }) => {
                     <div style={{ display: "flex", justifyContent: "center", marginBottom: 48 }}>
                         <Link to="/">
                             <Button variant="text" color="default" size="large">
-                                Back to home
+                                返回
                             </Button>
                         </Link>
                     </div>

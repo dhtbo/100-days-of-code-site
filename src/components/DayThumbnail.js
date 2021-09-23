@@ -109,13 +109,13 @@ export default function DayThumbnail({ data }) {
                     <CardContent classes={{ root: classes.cardContent }}>
                         <Grid container direction="column" justify="space-between" className={classes.grid}>
                             <Grid item>
-                                <Typography gutterBottom variant="h5" component="h2" className={classes.title}>
+                                <Typography gutterBottom variant="h5" component="h5" className={classes.title}>
                                     {title}
                                 </Typography>
                             </Grid>
-                            <Grid item>
+                            {/* <Grid item>
                                 <DayTag tag={`Day ${day}`} />
-                            </Grid>
+                            </Grid> */}
                         </Grid>
                     </CardContent>
                 </CardActionArea>
@@ -126,7 +126,7 @@ export default function DayThumbnail({ data }) {
                 </DialogTitle>
                 <DialogContent dividers>
                     <Typography variant="subtitle2" className={classes.typography}>
-                        {moment(data.frontmatter.publishDate).format("MMMM Do, YYYY")}
+                        {moment(data.frontmatter.publishDate).format("YYYY-MM-DD")}
                     </Typography>
                     <Typography
                         variant="body2"

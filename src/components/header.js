@@ -6,7 +6,7 @@ import Avatar from "@material-ui/core/Avatar";
 import Button from "@material-ui/core/Button";
 import Grid from "@material-ui/core/Grid";
 import Typography from "@material-ui/core/Typography";
-import TwitterIcon from "@material-ui/icons/Twitter";
+import EmailIcon from "@material-ui/icons/Email";
 
 const useStyles = makeStyles(theme => ({
     avatarCt: {
@@ -54,9 +54,9 @@ const Header = ({ avatar, siteDescription, twitterUrl }) => {
                             href={twitterUrl}
                             target="_blank"
                             rel="noreferrer"
-                            startIcon={<TwitterIcon />}
+                            startIcon={<EmailIcon />}
                         >
-                            Follow me on Twitter
+                            交作业
                         </Button>
                     </Grid>
                 </Grid>

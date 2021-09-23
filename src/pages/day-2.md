@@ -1,15 +1,20 @@
 ---
-title: "Building my 100 Days of Code site using Gatsby"
+title: "Python 二级 课件清单"
 day: "2"
-publishDate: "2020-05-25"
-thumbnailImage: "../images/day-2.png"
-shareText: "Just set up my first Gatsby site"
-hashtags: ["100DaysOfCode", "Gatsby"]
+publishDate: "2021-01-15"
+thumbnailImage: "../images/day002.JPG"
+shareText: ""
+hashtags: ["", ""]
 draft: false
 ---
 
-I built a 100 Days of Code site using Gatsby!
+| 📚 主 题                            | 📰 课 件                                                      |
+| :--------------------------------- | :----------------------------------------------------------- |
+| 1. 第一章： 函数                   | [🍳浏览](https://guyu-school.codemao.cn/pdf/web/viewer.html?file=https://cdn-cnr.codemao.cn/303/cnr/curriculum/courseware/4cwtc0r6i2usc3t1hw&fileName=第一章 函数-课件) |
+| 2. 第二章： 递归及算法             | [🍳浏览](https://guyu-school.codemao.cn/pdf/web/viewer.html?file=https://cdn-cnr.codemao.cn/303/cnr/curriculum/courseware/4cwtc8yofffsa2dwsw&fileName=第二章 递归及算法-课件) |
+| 3. 第三章：模块化编程、 模块、和包 | [🍳浏览](https://guyu-school.codemao.cn/pdf/web/viewer.html?file=https://cdn-cnr.codemao.cn/303/cnr/curriculum/courseware/4cwtci864kcybsfb79&fileName=第三章 模块化编程、模块和包) |
+| 4. 第四章： 类                     | [🍳浏览](https://guyu-school.codemao.cn/pdf/web/viewer.html?file=https://cdn-cnr.codemao.cn/303/cnr/curriculum/courseware/4cwtcsmyya9jg7sq90&fileName=第四章 类-课件) |
+| 5. 第五章： 文件                   | [🍳浏览](https://guyu-school.codemao.cn/pdf/web/viewer.html?file=https://cdn-cnr.codemao.cn/303/cnr/curriculum/courseware/4cwtd2elknlx69eu6h&fileName=第五章 文件-课件) |
+| 6. 第六章： 标准函数及库           | [🍳浏览](https://guyu-school.codemao.cn/pdf/web/viewer.html?file=https://cdn-cnr.codemao.cn/303/cnr/curriculum/courseware/4cwtdbc60dbboegfd9&fileName=第六章 标准函数及库-课件) |
+| 7. 第七章： 第三方库               | [🍳浏览](https://guyu-school.codemao.cn/pdf/web/viewer.html?file=https://cdn-cnr.codemao.cn/303/cnr/curriculum/courseware/4cwtdkxzcladr7ylrh&fileName=第七章 第三方库-课件) |
 
-I learned how to use the Material UI design framework and implement some simple components, like a dialog, in React. I also learned more about the Moment JS time library and how to use Gatsby plugins.
-
-<a href="https://i1.wp.com/alaskadogworks.com/wp-content/uploads/2020/02/Bernese-Mountain-Dog-Temperament-long.jpg?resize=1024%2C555&ssl=1" target="_blank">Here is a link to my work on GitHub</a>.
