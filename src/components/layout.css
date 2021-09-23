@@ -43,6 +43,7 @@ a {
     background-color: transparent;
     color: #fff;
     -webkit-text-decoration-skip: objects;
+    text-decoration: none
 }
 a:visited {
     color: #fff;
