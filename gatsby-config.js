@@ -1,7 +1,7 @@
 module.exports = {
     siteMetadata: {
-        title: `JCode`,
-        description: `欢迎访问！ JCode 课程资料站`,
+        title: `Jcode`,
+        description: `欢迎访问！ Jcode 课程资料站`,
         author: `@dhtbo`,
         githubUrl: "https://github.com/dhtbo",
         twitterUrl: "mailto:dhtbo@qq.com"
