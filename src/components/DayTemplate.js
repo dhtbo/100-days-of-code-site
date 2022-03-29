@@ -75,7 +75,7 @@ const DayTemplate = ({ data, pageContext }) => {
                         <Typography variant="subtitle2" className={classes.typography}>
                             {moment(publishDate).format("YYYY-MM-DD")}
                         </Typography>
-                        <Img fluid={thumbnailImage.childImageSharp.fluid} alt={pageContext.title} />
+                        {/* <Img fluid={thumbnailImage.childImageSharp.fluid} alt={pageContext.title} /> */}
                         <Typography
                             variant="body1"
                             className={classes.text}
