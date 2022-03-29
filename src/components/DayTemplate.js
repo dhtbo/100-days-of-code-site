@@ -13,7 +13,7 @@ import Share from "./Share";
 
 const useStyles = makeStyles(theme => ({
     container: {
-        maxWidth: 700,
+        maxWidth: 900,
         position: "relative"
     },
     background: {
