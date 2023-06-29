@@ -55,6 +55,7 @@ const Layout = ({ children }) => {
             >
                 <main>{children}</main>
                 <footer>
+                    
                     © {new Date().getFullYear()}. Built by
                     {` `}
                     <a target="_blank" rel="noreferrer" href={data.site.siteMetadata.githubUrl}>
