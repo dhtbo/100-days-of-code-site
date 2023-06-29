@@ -12,7 +12,7 @@ const useStyles = makeStyles(theme => ({
     avatarCt: {
         display: "flex",
         flexDirection: "row",
-        maxWidth: 600
+        maxWidth: 800
     },
     avatar: {
         width: theme.spacing(6),
